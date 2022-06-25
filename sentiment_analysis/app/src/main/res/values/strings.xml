@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sentiment Analysis App</string>
+
+    <!--  Main Activity  -->
+    <string name="input_hint">Masukkan Komentar</string>
+    <string name="input_ime_action">Komentar</string>
+    <string name="progress_title">Text Analisa</string>
+
+    <!--  Menu  -->
+    <string name="menu_settings">Setting</string>
+
+    <!--  Placeholder  -->
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+
+    <!--  Error message  -->
+    <string name="err_msg_blank_space">Coba lagi dengan lebih banyak kata</string>
+    <string name="err_msg_try_again">Coba lagi!</string>
+    <string name="err_msg_found">Menemukan kesalahan dan tidak dapat menampilkan pesan kesalahan</string>
+    <string name="err_msg_no_api">API tidak ditemukan. Coba masukkan di tab Konfigurasi</string>
+    <string name="input_api_url">Masukkan url api anda</string>
+    <string name="button_save">Save</string>
+</resources>
